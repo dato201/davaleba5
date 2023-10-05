@@ -1,0 +1,263 @@
+/* header1 */
+.header1{
+    width: 1440px;
+    margin: auto;
+    background-color: #2A9D8F;
+    
+}
+
+.logo_header{
+    margin: 38px 370px 38px 130px;
+    vertical-align: middle;
+}
+
+/* nav */
+.header_nav{
+    margin: auto;
+    display: inline-block;
+}
+
+.li_nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-inline: 25px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.10px;
+    word-wrap: break-word
+}
+
+/* button */
+.button_header{
+    margin-left: 357px;
+}
+
+.button_a{
+    color: #2A9D8F;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.10px;
+    word-wrap: break-word
+}
+
+/* divs */
+.div1{
+    margin-top: 200px;
+}
+
+.div_h1{
+    margin-left: 553px;
+    margin-bottom: 60px;
+    color: #4D4D4D;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 62.40px;
+    letter-spacing: 0.24px;
+    word-wrap: break-word
+}
+
+.p_div1{
+    margin: auto;
+    width: 780px;
+    margin-bottom: 52px;
+    color: #656565;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.10px;
+    word-wrap: break-word
+}
+
+.p_div2{
+    margin: auto;
+    margin-bottom: 200px;
+    width: 780px;
+    color: #656565;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.10px;
+    word-wrap: break-word
+}
+
+/* section1 */
+.section1{
+    margin: auto;
+    width: 1440px;
+    height: 720px;
+    background-color: #C2F3EE;    
+}
+
+.tree{
+    margin: 80px 123px 0 130px;
+    vertical-align: bottom;
+}
+
+.section_div{
+    width: 460px;
+    height: 538px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.section_h1{
+    margin-bottom: 27px;
+    display: inline-block;
+    color: #272727;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0.16px;
+    word-wrap: break-word
+}
+
+.section_p{
+    display: inline-block;
+    color: #515151;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.09px;
+    word-wrap: break-word
+}
+
+.section_button{
+    margin-top: 45px;
+    background-color: #2A9D8F;
+    border: #2A9D8F;
+    padding: 11px 16px;
+
+}
+
+.button_a2{
+    color: white;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word
+}
+
+/* section2 */
+.section2{
+    margin: auto;
+    width: 1180px;
+    height: 462px;
+}
+
+.section_h1_2{
+    margin: 200px 0 54px 360px;
+    color: #4D4D4D;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 62.40px;
+    letter-spacing: 0.24px;
+    word-wrap: break-word
+}
+
+.section_figure{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.figcaption_section{
+    color: #535353;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+    word-wrap: break-word
+}
+
+.left{
+    margin-left: 10px;
+}
+
+/* footer */
+.footer{
+    width: 1440px;
+    height: 386px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: #2A9D8F;
+}
+
+.logo_footer{
+    margin: 90px 0 0 130px;
+    vertical-align: middle;
+}
+
+.footer_nav{
+    margin-top: 90px;
+    margin-left: 638px;
+    display: inline-block;
+    vertical-align: middle;   
+}
+
+.div_footer{
+    display: inline-block;
+}
+
+.grup{
+    margin-inline: 24px;
+}
+
+.h1_footer{
+    display: inline-block;
+    margin-bottom: 21px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.10px;
+    word-wrap: break-word
+}
+
+.ul_footer1{
+    width: 63px;
+    height: 148px;
+}
+
+.ul_footer2{
+    width: 153px;
+    height: 148px;
+}
+
+.ul_footer3{
+    width: 148px;
+    height: 148px;
+}
+
+.li_footer{
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.09px;
+    word-wrap: break-word
+}
+
+.class{
+    margin: 8px 0;
+}
+
+.a_li{
+    display: inline-block;
+    vertical-align: top;
+}
